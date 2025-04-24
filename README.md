@@ -1,5 +1,5 @@
 # Recover from a GRBL reset on a Carbide 3D CNC machine
-I did something dumb and managed to completely screw up my [Carbide 3D Nomad 3 CNC](https://shop.carbide3d.com/products/nomad-3?variant=32912906354749) machine, which is otherwise awesome. (I managed to do with [bCNC](https://github.com/vlachoudis/bCNC), which is also otherwise awesome.)
+I did something dumb and managed to completely screw up my [Carbide 3D Nomad 3 CNC](https://shop.carbide3d.com/products/nomad-3?variant=32912906354749) machine, which is otherwise awesome. (I managed to do this with [bCNC](https://github.com/vlachoudis/bCNC), which is also otherwise awesome.)
 
 This is what Carbide 3D support told me to do.
 
