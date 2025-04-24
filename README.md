@@ -6,6 +6,7 @@ This is what Carbide 3D support told me to do.
 **This has been tested and verified for the Nomad 3 only**.
 
 1. Download Carbide Motion v5 from https://carbide3d.com/downloads/
+
    (Copies of these installer images are also in this repo, but use those only as a last resort.)
 1. Install
 1. Connect to Cutter
