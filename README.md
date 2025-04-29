@@ -23,3 +23,5 @@ This is what Carbide 3D support told me to do.
 1. Press "Initialize Machine"
 
 Continue with the Setup Process. You are now back in business.
+
+For the morbidly curious, you can run two versions of Carbide Motion at the same time using [Sandboxie-Plus](https://sandboxie-plus.com/downloads/) and configuring it to give native access to COM ports.
